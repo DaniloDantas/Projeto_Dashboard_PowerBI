@@ -8,7 +8,7 @@
   <body>
     <h2 align="center"><i> PROJETO: DASHBOARD PARA ANÁLISE DE GASTOS COM SEGURADOS  </i> &#128202;</h2> 
 <p align="center">
-
+      <img src="https://img.shields.io/badge/Projeto-Semi--Profissional-informational"/>
   </a>
 </p>
 <p align="center">
